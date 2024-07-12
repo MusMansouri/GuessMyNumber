@@ -58,4 +58,6 @@ The game logic is implemented in `script.js`, which includes:
 
 ### Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](/img/1.png)
+![Game Screenshot](/img/2.png)
+![Game Screenshot](/img/3.png)
